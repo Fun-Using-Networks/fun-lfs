@@ -15,3 +15,13 @@ An [LFS](http://www.linuxfromscratch.org/) project.
 * [scsh](http://www.alphanet.ch/~schinz/scsh-faq/scsh-faq_4.html#SEC33) ([Scheme-embedded](https://scsh.net/))
 * [Commander S](http://www.deinprogramm.de/scheme-2005/05-knauel/05-knauel.pdf) ([scsh](https://scsh.net/resources/commander-s.html))
 * [Functional Core, Reactive Shell](http://www.mokacoding.com/blog/functional-core-reactive-shell/)
+
+## fun-office
+* **word processor:**
+    * TeX files
+* **spreadsheet:**
+    * [functional database](http://lambda-the-ultimate.org/node/953) ([FRP](http://stackoverflow.com/a/10496455/6815427))
+    * [logical database](https://en.wikipedia.org/wiki/Deductive_database)
+    * [flat file database](https://en.wikipedia.org/wiki/Flat_file_database) (DSV, JSON, XML)
+* **slideshow presentation:**
+    * [image renderer](https://en.wikipedia.org/wiki/Image_viewer)
