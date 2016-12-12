@@ -1,10 +1,12 @@
 # Linux Fun System
 An [LFS](http://www.linuxfromscratch.org/) project.
 
+*( commented treasure*
 [//]: # (http://stackoverflow.com/a/20885980)
 [//]: # (fun-os can wait...)
 [//]: # (# [FunOS](http://gomerpedia.org/wiki/FUNOS))
 [//]: # (An [LFS](http://www.linuxfromscratch.org/) project; not to be confused with [SigmatismOS](http://funarg.nfshost.com/r2/code/funos/funos.html) (Actually, that looks so epic! Changing to Linux Fun System; but once we have a Fun development environment/platform AKA DEPendency, we can look into FunOS and contact whoever that is.).)
+*)*
 
 ## fun-shell (fsh)
 * [fun.sh](http://quasimal.com/posts/2012-05-21-funsh.html) @[GitHub](https://github.com/mikeplus64/fun.sh)
