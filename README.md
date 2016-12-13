@@ -1,12 +1,18 @@
 # Linux Fun System
 An [LFS](http://www.linuxfromscratch.org/) project.
 
-*( commented treasure*
+*( commented treasures*
+[//]: # (https://en.wikipedia.org/wiki/NixOS)
+[//]: # (https://en.wikipedia.org/wiki/House_%28operating_system%29)
+[//]: #
 [//]: # (http://stackoverflow.com/a/20885980)
 [//]: # (fun-os can wait...)
 [//]: # (# [FunOS](http://gomerpedia.org/wiki/FUNOS))
 [//]: # (An [LFS](http://www.linuxfromscratch.org/) project; not to be confused with [SigmatismOS](http://funarg.nfshost.com/r2/code/funos/funos.html) (Actually, that looks so epic! Changing to Linux Fun System; but once we have a Fun development environment/platform AKA DEPendency, we can look into FunOS and contact whoever that is.).)
 *)*
+
+## fun-windows
+[xmonad](https://en.wikipedia.org/wiki/Xmonad)
 
 ## fun-shell (fsh)
 * [fun.sh](http://quasimal.com/posts/2012-05-21-funsh.html) @[GitHub](https://github.com/mikeplus64/fun.sh)
@@ -24,6 +30,6 @@ An [LFS](http://www.linuxfromscratch.org/) project.
 * **spreadsheet:**
     * [functional database](http://lambda-the-ultimate.org/node/953) ([FRP](http://stackoverflow.com/a/10496455/6815427))
     * [logical database](https://en.wikipedia.org/wiki/Deductive_database)
-    * [flat file database](https://en.wikipedia.org/wiki/Flat_file_database) (DSV, JSON, XML)
+    * [flat file database](https://en.wikipedia.org/wiki/Flat_file_database) (DSV, JSON, [XML](http://hackage.haskell.org/package/HaXml))
 * **slideshow presentation:**
     * [image renderer](https://en.wikipedia.org/wiki/Image_viewer)
