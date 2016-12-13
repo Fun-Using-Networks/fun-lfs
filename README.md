@@ -11,7 +11,7 @@ An [LFS](http://www.linuxfromscratch.org/) project.
 [//]: # (An [LFS](http://www.linuxfromscratch.org/) project; not to be confused with [SigmatismOS](http://funarg.nfshost.com/r2/code/funos/funos.html) (Actually, that looks so epic! Changing to Linux Fun System; but once we have a Fun development environment/platform AKA DEPendency, we can look into FunOS and contact whoever that is.).)
 *)*
 
-## fun-windows
+## fun-[windows](http://uncyclopedia.wikia.com/wiki/Windows_BC)
 [xmonad](https://en.wikipedia.org/wiki/Xmonad)
 
 ## fun-shell (fsh)
