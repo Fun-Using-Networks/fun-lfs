@@ -16,7 +16,7 @@ An [LFS](http://www.linuxfromscratch.org/) project.
 
 ## fun-shell (fsh)
 * [fun.sh](http://quasimal.com/posts/2012-05-21-funsh.html) @[GitHub](https://github.com/mikeplus64/fun.sh)
-* [Shelly.hs](http://www.yesodweb.com/blog/2012/03/shelly-for-shell-scripts) @[GitHub](https://github.com/yesodweb/Shelly.hs#readme)
+* [Shelly.hs](http://www.yesodweb.com/blog/2012/03/shelly-for-shell-scripts) @[Hackage](http://hackage.haskell.org/package/shelly) @[GitHub](https://github.com/yesodweb/Shelly.hs#readme)
 * [turtle](http://www.haskellforall.com/2015/01/use-haskell-for-shell-scripting.html) @[Hackage](http://hackage.haskell.org/package/turtle) @[GitHub](https://github.com/Gabriel439/Haskell-Turtle-Library)
 * [Es](https://stuff.mit.edu/afs/sipb/user/yandros/doc/es-usenix-winter93.html) @[Wikipedia](https://en.wikipedia.org/wiki/Rc#es)
 * [ixl](http://jneen.net/posts/2013-12-30-ixl-a-functional-language-with-the-heart-of-a-shell) @[GitHub](https://github.com/jneen/ixl-prototype)
